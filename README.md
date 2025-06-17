@@ -9,7 +9,7 @@ Otwórz terminal lub wiersz poleceń w folderze projektu (tam gdzie jest folder 
  Uruchom program
 W tym samym katalogu wpisz:
 
-    java master.Runner
+    java master.Main
 
  Korzystaj z menu
  Program wyświetli menu tekstowe. Wybieraj opcje, wpisując odpowiednią cyfrę i potwierdzając enterem.
